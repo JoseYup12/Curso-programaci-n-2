@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Programa 1, 2 y 3\Programa #3 LINQ\Ejercicio #3 LINQ\bin\Debug\net8.0\Ejercicio #3 LINQ.exe
+C:\Users\DELL\Desktop\Programa 1, 2 y 3\Programa #3 LINQ\Ejercicio #3 LINQ\bin\Debug\net8.0\Ejercicio #3 LINQ.deps.json
+C:\Users\DELL\Desktop\Programa 1, 2 y 3\Programa #3 LINQ\Ejercicio #3 LINQ\bin\Debug\net8.0\Ejercicio #3 LINQ.runtimeconfig.json
+C:\Users\DELL\Desktop\Programa 1, 2 y 3\Programa #3 LINQ\Ejercicio #3 LINQ\bin\Debug\net8.0\Ejercicio #3 LINQ.dll
+C:\Users\DELL\Desktop\Programa 1, 2 y 3\Programa #3 LINQ\Ejercicio #3 LINQ\bin\Debug\net8.0\Ejercicio #3 LINQ.pdb
+C:\Users\DELL\Desktop\Programa 1, 2 y 3\Programa #3 LINQ\Ejercicio #3 LINQ\obj\Debug\net8.0\Ejercicio #3 LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Programa 1, 2 y 3\Programa #3 LINQ\Ejercicio #3 LINQ\obj\Debug\net8.0\Ejercicio #3 LINQ.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Programa 1, 2 y 3\Programa #3 LINQ\Ejercicio #3 LINQ\obj\Debug\net8.0\Ejercicio #3 LINQ.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Programa 1, 2 y 3\Programa #3 LINQ\Ejercicio #3 LINQ\obj\Debug\net8.0\Ejercicio #3 LINQ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Programa 1, 2 y 3\Programa #3 LINQ\Ejercicio #3 LINQ\obj\Debug\net8.0\Ejercicio #3 LINQ.dll
+C:\Users\DELL\Desktop\Programa 1, 2 y 3\Programa #3 LINQ\Ejercicio #3 LINQ\obj\Debug\net8.0\refint\Ejercicio #3 LINQ.dll
+C:\Users\DELL\Desktop\Programa 1, 2 y 3\Programa #3 LINQ\Ejercicio #3 LINQ\obj\Debug\net8.0\Ejercicio #3 LINQ.pdb
+C:\Users\DELL\Desktop\Programa 1, 2 y 3\Programa #3 LINQ\Ejercicio #3 LINQ\obj\Debug\net8.0\Ejercicio #3 LINQ.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Programa 1, 2 y 3\Programa #3 LINQ\Ejercicio #3 LINQ\obj\Debug\net8.0\ref\Ejercicio #3 LINQ.dll
